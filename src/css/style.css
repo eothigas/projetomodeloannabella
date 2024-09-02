@@ -1,0 +1,42 @@
+body {
+    background: rgb(210, 210, 193) url('/ProjetoAnnaBella/imagens/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+/* Inicio index.html */
+
+#main {
+    width: 900px;
+    margin: 0px;
+}
+
+#menu {
+    background-color: rgb(211, 211, 190);
+    color: rgb(71, 95, 105);
+    text-align: center;
+    padding: 18px;
+}
+
+a {
+    color: #4b656a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#conteudo {
+    background-color: #e8e8d9;
+    padding: 10px;
+}
+
+h2 {
+    color: rgb(130, 130, 113);
+}
+
+#bottom {
+    text-align: center;
+}
+
+.picture {
+    border: 10px solid rgb(195, 195, 174);
+}
