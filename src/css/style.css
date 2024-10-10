@@ -6,8 +6,13 @@ body {
 /* Inicio index.html */
 
 #main {
-    width: 900px;
-    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+
 }
 
 #menu {
@@ -15,6 +20,11 @@ body {
     color: rgb(71, 95, 105);
     text-align: center;
     padding: 18px;
+}
+
+.capa {
+    width: 1000px;
+    height: 500px;
 }
 
 a {
